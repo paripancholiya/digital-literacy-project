@@ -1,1 +1,1 @@
-
+For my digital portfolio, I chose GitHub, LinkedIn, and researchgate. I am using GitHub to host my coding projects, LinkedIn to build a professional network with mentors, and Kaggle to practice data science skills. These platforms will help me document my academic journey and stay connected with the tech community.
