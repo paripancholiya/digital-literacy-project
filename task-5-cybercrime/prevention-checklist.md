@@ -1,4 +1,4 @@
-🛡️ 'Stay Safe Online' Prevention Checklist
+# 'Stay Safe Online' Prevention Checklist
 
 As a Student Digital Ambassador, I recommend these 8 actionable tips for all college students in India:
 
@@ -11,7 +11,7 @@ As a Student Digital Ambassador, I recommend these 8 actionable tips for all col
 ->Use Strong, Unique Passwords: Use a passphrase (a string of random words) rather than a simple word. Avoid using the same password for your college portal and your social media.
 ->Secure Your Webcam: Use a physical webcam cover or a piece of tape when your camera is not in use to prevent unauthorized remote access (camfecting).
 
-🚨 How to Report Cybercrime in India
+# How to Report Cybercrime in India
 
 If you or someone you know is a victim of a digital scam:
 ->Immediate Helpline: Call 1930 (National Cyber Crime Helpline).
